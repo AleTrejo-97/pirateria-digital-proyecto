@@ -1,5 +1,9 @@
 Segundo Avance - Proyecto Final: La Piratería en la Era Digital
 
+Equipo:
+Alexander Padilla Trujillo
+Alejandro de Jesus Trejo Escalona
+
 Estructura del proyecto:
 - backend/    -> servidor Node.js (Express) que ofrece endpoint de ejemplo /api/sample
 - client/     -> aplicación React (create-react-app style) que consume /api/sample
